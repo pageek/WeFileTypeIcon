@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "c81c12f4-6276-2f43-b71e-88467c5cecd4++8417",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "c81c12f4-6276-2f43-b71e-88467c5cecd4++8417" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "c81c12f4-6276-2f43-b71e-88467c5cecd4++8417" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "78BBFE9C-ABD6-45C1-B93F-E66D44FE2308",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "c81c12f4-6276-2f43-b71e-88467c5cecd4++8417" : "%E5%89%8D%E7%AB%AF\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WEFileTypeIcon",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "myPJ\/WEFileTypeIcon\/WEFileTypeIcon.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/gz-svn.tencent.com\/gzrd\/gzrd_mail_rep",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "c81c12f4-6276-2f43-b71e-88467c5cecd4++8417"
+    }
+  ]
+}
